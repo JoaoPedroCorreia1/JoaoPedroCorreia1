@@ -1,4 +1,4 @@
-- 👋 Hi, I’m João Pedro C. M, da Silva
+- 👋 Hi, I’m João Pedro C. M. da Silva
     - 
     - I'm currently looking for an internship in QA
     - I’m currently learning QA / Test Automation
