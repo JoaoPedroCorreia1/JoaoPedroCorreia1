@@ -1,7 +1,8 @@
 - 👋 Hi, I’m João Pedro C. M. da Silva
     - 
-    - I'm currently Studying the 5th Semester of Computer Engeneering at USJT 
-    and Advanced English II at CNA
+    - I'm currently studying
+        - The 5th semester of Computer Engineering at USJT 
+        - Advanced English II at CNA
     - My objective is an internship in QA
 - :mag: How to reach me:
     - 
