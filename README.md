@@ -1,7 +1,6 @@
 - 👋 Hi, I’m João Pedro C. M. da Silva
-    - 
-    - I'm currently looking for an internship in QA
-    - I’m currently learning QA / Test Automation
+    - I'm currently Studying the 5th Semester of Computer Engeneering at USJT and Advanced English II at CNA
+    - My objective is an internship in QA
 - :mag: How to reach me:
     - 
     - Crowdtest: (ID#) 31753
