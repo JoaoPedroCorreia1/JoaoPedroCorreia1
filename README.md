@@ -34,9 +34,8 @@
     
 - How to reach me:
     - 
-    
-    - Crowdtest: (ID#) 31753
-    - uTest: (Tester ID) 1290106
+
+    - Crowtest, Utest
     - E-mail: jpmourasilva@gmail.com 
     - Linkedin: https://www.linkedin.com/in/joao-pedro-correia-moura-da-silva/
     - Instagram: https://www.instagram.com/joaopcms/
