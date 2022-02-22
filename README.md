@@ -35,7 +35,8 @@
 - How to reach me:
     - 
 
-    - Crowtest, Utest
+    I'm on Crowdtest and Utest.
+    
     - E-mail: jpmourasilva@gmail.com 
     - Linkedin: https://www.linkedin.com/in/joao-pedro-correia-moura-da-silva/
     - Instagram: https://www.instagram.com/joaopcms/
