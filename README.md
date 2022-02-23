@@ -21,6 +21,9 @@
         - HTML5, CSS3
         - Python
     
+    - DataBases
+        - MySql
+    
     - Project
         - Git, Github
         - Jira
