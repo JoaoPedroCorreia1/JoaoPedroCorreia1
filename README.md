@@ -12,29 +12,6 @@
     My objective is an internship in Quality Assurance (Test Analist, Automation).
     Certifications: CTFL.
     
-- Tools
-    -
-    
-    - Programming Languages
-        - Java
-        - Javascript ES6, Typescript
-        - HTML5, CSS3
-        - Python
-    
-    - DataBases
-        - MySql
-    
-    - Project
-        - Git, Github
-        - Jira
-        - Agile, Scrum, Kanban, Scrumban
-    
-    - Testing
-        - Functional Testing
-            - Exploratory Testing, Selenium (Java), JUnit5
-        - API Testing
-            - Rest-Assured (Java), Postman
-    
 - How to reach me:
     - 
 
