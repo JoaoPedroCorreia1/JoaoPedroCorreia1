@@ -7,7 +7,7 @@
 - About me
     -
     
-    I'm currently studying the 5th semester of Computer Engineering at USJT
+    I'm currently studying the 6th semester of Computer Engineering at USJT
     advanced English II at CNA.
     My objective is an internship in Quality Assurance (Test Analist, Automation).
     Certifications: CTFL.
