@@ -4,20 +4,10 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroCorreia1&show_icons=true&theme=dracula&count_private=true"/>
 </div> 
     
-- About me
-    -
-    
-    I'm currently studying the 6th semester of Computer Engineering at USJT
-    advanced English II at CNA.
-    My objective is an internship in Quality Assurance (Test Analist, Automation).
-    Certifications: CTFL.
-    
 - How to reach me:
     - 
     
-    - E-mail: jpmourasilva@gmail.com 
-    - Linkedin: https://www.linkedin.com/in/joao-pedro-correia-moura-da-silva/
-    - Instagram: https://www.instagram.com/joaopcms/
+    - E-mail: jpmourasilva@gmail.com
     
 - See recent projects on pinned section
     - 
